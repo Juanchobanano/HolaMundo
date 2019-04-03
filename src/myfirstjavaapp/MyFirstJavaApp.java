@@ -15,6 +15,7 @@ public class MyFirstJavaApp {
      * @param args the command line arguments
      */
     
+    private boolean usuario;
     
    
     public static void main(String[] args) {
